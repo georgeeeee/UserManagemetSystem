@@ -1,0 +1,771 @@
+[Header] 2018-06-17 19:11:29,333 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 19:11:29Log insert: 1 µÇÂ¼ 
+2018-06-17 19:11:45,928 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 19:11:45Log insert: 1 ÍË³ö 
+[Footer] [Header] 2018-06-17 19:18:43,390 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 19:18:43: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-17 19:22:28,425 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 19:22:28: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Footer] [Header] 2018-06-17 23:42:34,781 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-17 23:44:17,192 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-17 23:44:55,819 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 23:44:55: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-17 23:56:40,801 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 23:56:40: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-17 23:57:24,091 [1] INFO  testApp.Logging [(null)]  - 2018/6/17 23:57:24: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-18 00:08:40,117 [1] INFO  testApp.Logging [(null)]  - 2018/6/18 0:08:40: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-18 00:10:31,387 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 00:11:20,005 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 00:11:20,033 [1] INFO  testApp.Logging [(null)]  - 2018/6/18 0:11:20: Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-18 00:14:02,945 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 00:14:02,976 [1] INFO  testApp.Logging [(null)]  - Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-18 00:25:32,082 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 00:25:32,111 [1] INFO  testApp.Logging [(null)]  - Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-18 00:32:48,910 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 00:32:48,939 [1] INFO  testApp.Logging [(null)]  - Action: Login, Uid1, Situation: µÇÂ¼, User Type: Administrator
+[Header] 2018-06-18 00:44:29,510 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 01:39:48,110 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:40:10,565 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:40:14,834 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 01:42:05,898 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:42:18,829 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:42:30,587 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 01:43:58,882 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 01:44:17,992 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:44:28,316 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:44:32,232 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:44:38,082 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 01:48:06,866 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:48:20,979 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:48:22,921 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 01:54:02,026 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:54:12,555 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 01:54:13,657 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 15:34:56,407 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-18 15:35:14,920 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 15:40:55,286 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 15:42:54,285 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-18 16:04:02,772 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 16:04:19,489 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-18 16:17:04,570 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 00:19:05,713 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:19:14,916 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:19:19,401 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 00:31:41,647 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:31:46,619 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:31:49,802 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:31:51,444 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:31:53,803 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:31:56,626 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:32:20,302 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 00:32:58,023 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:33:01,431 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 00:33:42,562 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:33:46,879 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:33:52,991 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:33:59,196 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 00:34:08,759 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 10:06:30,639 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 10:06:36,873 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:26:34,294 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:40:25,702 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 10:40:58,924 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 10:44:28,292 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:45:53,040 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:52:43,823 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 10:52:49,070 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:57:07,547 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 10:57:16,438 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:58:05,542 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 10:58:09,567 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 10:59:02,036 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 10:59:05,400 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 17:59:16,736 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] [Footer] [Header] 2018-06-19 18:19:31,463 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 18:19:34,148 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] [Footer] [Header] [Footer] [Header] [Footer] [Header] [Footer] [Header] [Footer] [Header] [Footer] [Header] 2018-06-19 19:47:15,255 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 19:47:19,660 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 19:47:56,693 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] [Footer] [Header] [Footer] [Header] 2018-06-19 20:20:48,738 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] [Footer] [Header] 2018-06-19 20:33:44,181 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 20:58:18,896 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 20:58:30,844 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 21:03:55,490 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 21:05:04,658 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 21:05:25,356 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 21:06:53,717 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 21:06:56,642 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 23:31:59,980 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 23:32:27,965 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 23:33:55,230 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 23:34:16,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 23:46:06,746 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-19 23:46:21,963 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-19 23:47:15,871 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 23:49:35,136 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-19 23:50:42,687 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 00:28:26,577 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:28:45,314 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 00:40:36,786 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:40:44,789 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:40:50,947 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:40:52,188 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:40:53,486 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:41:00,991 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 00:41:12,058 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:41:20,079 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 00:46:41,776 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:46:50,626 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 00:49:08,305 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:49:18,530 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 00:52:46,789 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:53:02,360 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 00:55:47,654 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:55:55,443 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 00:55:58,885 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 01:01:45,849 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 01:01:50,580 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 01:01:51,251 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 01:01:57,888 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 01:01:58,261 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 01:01:59,517 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 10:07:43,114 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:47,175 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:47,785 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:50,202 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:51,236 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:52,484 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:52,925 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:07:56,753 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 10:12:06,741 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:12:11,030 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:12:11,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:12:12,217 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:12:12,754 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:12:26,139 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 10:22:41,964 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:22:45,209 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:22:55,880 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:23:07,919 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:23:24,215 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 10:42:55,665 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:43:02,034 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:43:15,465 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:43:24,857 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:44:31,765 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 10:46:57,320 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:00,139 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:00,863 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:01,617 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:02,370 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:03,055 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:04,174 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:06,158 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:06,923 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:47:10,730 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 10:51:07,216 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:51:10,323 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:51:12,022 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:51:12,841 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:51:21,437 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 10:52:36,183 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:52:39,119 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 10:52:49,342 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 11:02:59,318 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:03:04,217 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:03:05,737 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:03:07,731 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:03:10,316 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 11:07:26,411 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:29,630 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:30,750 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:34,345 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:35,182 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:37,695 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:38,168 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:38,862 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:41,027 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:42,023 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:42,924 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:43,672 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:50,249 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:07:53,666 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:08:05,633 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 11:29:21,533 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:29:27,141 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 11:33:06,177 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:33:11,296 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:33:23,216 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:33:37,262 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:33:51,834 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:06,524 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:08,589 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:17,329 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 11:34:23,801 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:28,645 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:39,471 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:46,592 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:48,164 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:52,446 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:34:54,154 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 11:35:04,906 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] [Footer] [Header] [Footer] [Header] 2018-06-20 16:14:21,606 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:25,823 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:29,651 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:30,302 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:31,018 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:35,931 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:37,150 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:39,615 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:42,271 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:42,677 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:43,224 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:14:45,972 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 16:16:23,238 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 16:24:17,745 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:12:36,165 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:12:52,603 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:13:05,806 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:14:37,207 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:14:41,233 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:14:58,265 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:15:02,286 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:15:20,934 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 17:18:10,297 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:19:55,884 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:22:01,618 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:23:05,456 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:23:53,393 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:25:56,813 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:26:07,172 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:26:10,266 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 17:30:11,619 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 17:35:26,150 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-20 17:38:13,916 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:38:18,881 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:26,325 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:26,779 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:27,434 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:33,524 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:34,144 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:35,440 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:43:39,109 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-20 17:48:44,236 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-20 17:48:51,714 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 11:09:01,904 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:09:07,262 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:09:18,113 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 11:16:35,735 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:16:41,369 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:16:44,334 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:16:45,758 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:16:47,352 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:16:48,891 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 11:24:29,578 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:34,240 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:34,857 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:36,039 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:36,617 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:37,833 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:38,286 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:24:40,092 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 11:34:13,476 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:34:17,131 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:34:21,230 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 11:36:46,721 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:49,854 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:50,632 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:51,406 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:51,898 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:52,746 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:53,460 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:54,127 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:55,124 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:55,836 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:36:56,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 11:44:14,620 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:44:18,356 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:44:20,025 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:44:20,496 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:44:20,962 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 11:44:47,985 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:44:51,331 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 11:50:58,974 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:51:02,560 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:51:03,300 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:51:03,954 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:51:04,668 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:51:05,485 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:51:57,309 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 11:53:10,521 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 11:53:14,282 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 12:00:15,049 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 12:00:50,002 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:00:53,505 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:00:54,161 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:01:04,893 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:01:27,114 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 12:10:01,556 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:10:04,921 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:10:26,617 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 12:10:45,309 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 14:53:59,570 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 14:54:04,305 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 14:56:35,805 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 14:56:40,027 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 14:57:15,206 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 14:57:21,218 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 14:57:55,610 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 14:58:00,552 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 14:59:32,597 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 14:59:36,791 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 15:00:14,354 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 16:39:53,023 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:39:58,458 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:40:04,865 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 16:40:54,609 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:40:58,619 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 16:41:15,931 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:41:20,494 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 16:43:46,732 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 16:46:04,707 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 16:49:35,329 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:49:39,312 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:49:42,116 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:49:42,970 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:49:43,686 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:49:46,177 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:49:48,397 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:50:20,785 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 16:55:33,066 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:55:38,808 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 16:55:49,190 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:55:54,591 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:55:55,626 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:55:56,257 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:55:56,888 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:55:57,800 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 16:56:01,293 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 17:01:09,033 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:01:13,623 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 17:01:19,817 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:01:28,152 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 17:02:01,378 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 17:17:23,413 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:42,909 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:43,672 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:45,016 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:45,831 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:47,034 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:47,552 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:18:48,521 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 17:28:57,562 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:29:01,357 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:29:02,036 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 17:29:07,727 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:07,357 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:12,475 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 18:24:30,107 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:36,278 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:37,009 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:37,823 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:38,721 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:39,444 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:45,944 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:51,339 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:24:53,706 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 18:26:24,695 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 18:26:39,818 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:26:42,817 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:26:47,134 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:31:44,300 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:31:47,186 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:31:47,776 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:31:48,227 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:16,194 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:22,518 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:31,420 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:31,931 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:32,565 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:33,496 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:36,044 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:36,501 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:37,450 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:37,863 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:45,363 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:45,752 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 18:33:48,917 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 21:19:09,625 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:14,807 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:16,757 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:18,226 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:20,445 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:22,490 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:23,234 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 21:19:53,928 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:57,600 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:19:58,553 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:00,205 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:01,459 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:03,088 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:04,748 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:05,200 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:05,964 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:09,187 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:09,549 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 21:20:10,113 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-21 22:32:41,950 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 22:34:01,040 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 22:35:23,772 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 22:35:50,827 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 22:36:30,140 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 22:37:59,291 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 22:38:47,830 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:11:15,321 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:11:18,879 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:12:32,399 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:12:36,369 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:12:52,219 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:12:56,170 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:24:03,865 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:24:07,290 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:26:27,489 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:26:31,996 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:28:14,407 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:28:17,927 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-21 23:32:26,391 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-21 23:32:29,482 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 01:21:48,396 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:21:55,341 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:22:13,255 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 01:23:33,750 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:23:40,203 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:23:47,108 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:23:52,899 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 01:25:07,611 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:25:27,489 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:25:32,848 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 01:35:39,165 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:35:44,174 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:35:46,076 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:35:52,033 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:35:54,006 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:35:55,411 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:35:58,752 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:36:04,287 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:36:10,796 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:36:12,970 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 01:41:02,565 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:41:12,648 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:41:16,172 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:41:21,273 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:41:22,919 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:41:25,356 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:41:26,986 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 01:45:54,837 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:00,796 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:06,386 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:23,879 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:24,827 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:29,495 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:33,091 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:37,413 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:40,368 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:42,649 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:44,398 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:46:57,741 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:02,066 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:03,895 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:05,355 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:06,527 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:19,609 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:21,087 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:47:49,803 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:48:33,805 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 01:53:45,849 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:53:51,836 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 01:54:39,507 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:54:44,903 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:54:48,255 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:54:50,406 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:55:15,190 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 01:55:17,206 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 02:05:07,737 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:05:13,477 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:05:20,281 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 02:07:44,358 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:07:49,800 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:07:56,633 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:07:59,918 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:13,744 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:15,899 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:16,973 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:40,858 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:45,674 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:53,332 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:56,456 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:58,471 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:08:59,648 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:02,964 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:07,366 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:08,566 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:27,294 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:28,861 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:31,370 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:32,234 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:46,319 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:47,995 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:53,298 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:55,082 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:09:58,856 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 02:12:49,457 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:12:55,498 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:12:56,645 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 02:12:59,772 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 10:49:25,815 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:49:30,254 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:49:53,310 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 10:50:45,415 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:50:49,205 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:51:25,377 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 10:54:44,552 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:54:49,069 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 10:55:51,842 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:55:55,649 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 10:56:11,768 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 11:59:02,002 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 11:59:25,615 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 11:59:36,159 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 11:59:41,051 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:00:02,646 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:01:18,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 12:01:27,937 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:01:31,443 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:01:49,433 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:02:36,549 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:02:39,994 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:02:40,530 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:02:47,713 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:02:54,258 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:14:59,256 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:15:14,786 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:16:46,423 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 12:17:51,775 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 12:23:46,480 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 12:25:58,112 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:26:05,111 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:27:00,478 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 12:32:54,911 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:33:00,744 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:50:32,921 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:51:19,268 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 12:56:50,059 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:56:55,089 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:57:18,280 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 12:59:27,229 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 12:59:30,658 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:02:00,455 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:03:14,122 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:03:18,357 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:03:34,234 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:03:58,919 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:04:03,106 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 13:05:09,999 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:05:13,131 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 13:07:48,682 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:07:51,816 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 13:08:37,284 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:08:40,166 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:08:49,426 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:08:57,976 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:16:19,599 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:16:28,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 13:17:02,606 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:17:06,223 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:17:16,763 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:17:31,918 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:17:55,858 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:17:59,118 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 13:18:28,714 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:18:31,607 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:18:39,693 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:41:05,487 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:41:12,901 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 13:42:13,857 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:42:29,433 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:42:31,802 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:42:34,047 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:42:42,616 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:42:58,089 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:43:15,659 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:43:20,445 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:43:26,651 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:43:35,824 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:43:38,589 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:43:51,766 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:31,074 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:35,972 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:46,095 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:46,824 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:49,744 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:53,657 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:54,600 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:44:58,089 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:45:09,034 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:46:50,879 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:46:58,509 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:47:00,061 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:47:01,107 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:47:02,321 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:47:03,296 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:47:04,416 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:47:14,851 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 13:55:07,506 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:55:12,002 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 13:55:12,658 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:00:09,402 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:00:13,853 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:00:55,789 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:01:04,119 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:02:31,630 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:02:37,364 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:02:55,625 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:03:04,520 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:04:13,493 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:04:48,520 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:04:52,824 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:04:59,577 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:06:19,937 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:06:24,228 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:06:45,110 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:06:56,486 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:10:40,925 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:10:46,353 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:10:56,834 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:11:27,689 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:11:38,201 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:11:39,567 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:14:09,924 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:14:14,777 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:14:45,174 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:14:49,448 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:14:50,231 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:15:27,486 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:15:46,827 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:16:45,218 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:17:33,037 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:17:37,637 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:17:48,148 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:19:55,279 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:03,657 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:06,015 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:08,200 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:15,190 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:20,842 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:34,866 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:20:53,762 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:25:09,547 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:25:13,362 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:25:34,221 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-22 14:26:05,491 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:27:01,836 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:37:47,439 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:37:51,515 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:37:57,205 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:37:57,844 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:37:58,914 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:38:00,414 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:38:30,557 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:40:42,460 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:41:02,641 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:11,014 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:13,652 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:14,846 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:32,387 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:34,614 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:35,390 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:36,610 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:41:41,196 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:44:18,946 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:45:36,319 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:51:01,957 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:51:07,842 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] [Footer] [Header] [Footer] [Header] 2018-06-22 14:52:28,245 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:52:33,374 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:53:03,431 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:53:07,151 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:53:21,058 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:53:25,200 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:53:30,161 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:53:33,920 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 14:54:04,676 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 14:54:09,124 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 15:07:22,256 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:07:29,493 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:07:30,875 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:07:41,494 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:08:41,016 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 15:09:15,151 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:09:18,913 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:09:31,941 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-22 15:12:36,085 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:12:40,251 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:13:14,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:13:15,113 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:13:15,910 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:13:16,705 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-22 15:13:17,368 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-27 13:37:07,192 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:37:11,329 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:37:31,247 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:39:07,010 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-27 13:40:09,231 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:40:13,372 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:40:20,516 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:40:26,078 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-27 13:41:02,338 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:41:06,495 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:41:17,132 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:42:06,675 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:42:29,446 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:42:33,886 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:42:34,841 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:42:36,562 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 13:42:39,435 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] [Footer] [Header] 2018-06-27 15:52:52,682 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:53:00,330 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:33,216 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:33,817 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:34,615 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:35,477 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:36,360 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:38,519 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:39,013 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:39,522 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:39,997 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:40,429 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:58:40,855 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-27 15:59:19,111 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 15:59:22,492 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-27 16:00:39,549 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:00:43,030 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:01:23,153 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-27 16:29:45,560 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:29:49,094 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:29:52,375 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:29:53,345 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:29:54,132 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:30:06,489 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:31:07,793 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] [Header] 2018-06-27 16:31:34,687 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:31:48,917 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 16:31:59,396 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Header] 2018-06-27 17:22:41,178 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:22:48,452 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:06,311 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:12,276 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:22,931 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:39,326 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:44,149 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:53,815 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:24:54,822 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:25:01,227 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:25:05,799 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:25:08,170 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:25:10,897 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+2018-06-27 17:25:19,512 [1] INFO  testApp.Logging [(null)]  - test2.LogContent
+[Footer] 

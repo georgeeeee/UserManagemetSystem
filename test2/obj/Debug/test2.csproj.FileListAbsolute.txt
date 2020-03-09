@@ -1,0 +1,56 @@
+D:\资料\Net编程\homework\test\test\test2\bin\Debug\test2.exe.config
+D:\资料\Net编程\homework\test\test\test2\bin\Debug\test2.exe
+D:\资料\Net编程\homework\test\test\test2\bin\Debug\test2.pdb
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.Properties.Resources.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.csproj.GenerateResource.cache
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.exe
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.pdb
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmManager.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmMain.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmLogin.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmPwdChange.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmLog.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmRegistration.resources
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\Interop.Office.dll
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.csproj.ResolveComReference.cache
+D:\资料\Net编程\homework\test\test\test2\obj\Debug\test2.FrmUserManager.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\test2.exe.config
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\test2.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\test2.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.Charts.Design.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\log4net.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\NPOI.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\NPOI.OOXML.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\log4net.xml
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\bin\Debug\NPOI.xml
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.csproj.ResolveComReference.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmForgotPwd.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmLog.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmMain.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmManager.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmLogin.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmPwdChange.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmRegistration.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.FrmUserManager.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.csproj.CopyComplete
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_gdh3nw8oejxe12\Files\test\test\test2\obj\Debug\test2.csprojAssemblyReference.cache
