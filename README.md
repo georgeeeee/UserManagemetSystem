@@ -8,4 +8,6 @@
 >
 >     System.out.println("Hello world");
 >     return shell_exec("echo $input | $markdown_script");
-
+*   Red
+*   Green
+*   Blue
